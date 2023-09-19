@@ -1,8 +1,7 @@
-Модуль 19, Задание_19.7.2. Выполнил Макаров А.А., QAP-99
-- найти методы, которые ещё не реализованы в библиотеке, и написать их реализацию в файле api.py;
-- составить 10 различных тестов для рассматриваемого REST API-интерфейса; 
-- готовые тест-кейсы разместите на GitHub и прислать ссылку.
+Module 19, Assignment_19.7.2. performed by Alexander Makarov, QAP-99
+- finding methods that are not yet implemented in the library and writing it to "api.py" file;
+- creating 10 different tests for reviewed REST API interface.
 
-Комментарий к выполнению задания:
-- тесты размещены в папке "tests"(файл test_pet_friends.py);
-- библиотека методов размещена в файле app.py (добавленные нереализованные методы в строках 112 и 133).
+Comments:
+- Tests are implemented in "tests" folder ("test_pet_friends.py" file);
+- The method library is located in the file app.py.
